@@ -6,13 +6,16 @@ The Item Price Comparator is designed to help players search for the lowest pric
 The application could not work if it were not for the hard work of those involved in the project https://github.com/Universalis-FFXIV/Universalis
 
 The project uses the API provided at: https://universalis.app/api/v2
+
 The API documentation is available at: https://docs.universalis.app/
 
 ## Downloads
 
    File: Comparator.exe
-        MD5: coming soon
-        SHA512: coming soon
+   
+   MD5: coming soon
+   
+   SHA512: coming soon
 
    Link to VirusTotal: coming soon
 
